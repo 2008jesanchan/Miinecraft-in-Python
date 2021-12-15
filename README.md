@@ -1,1 +1,1 @@
-# Miinecraft-in-Python
+# Miinecraft in Python
